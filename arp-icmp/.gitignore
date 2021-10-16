@@ -1,0 +1,6 @@
+hosts_output
+__pycache__
+*.o
+router
+router_*
+rtable*
